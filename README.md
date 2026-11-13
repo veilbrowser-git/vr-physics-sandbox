@@ -1,6 +1,6 @@
 # VR Physics Sandbox - builds
 
-Private download page for test builds of the standalone Meta Quest VR physics sandbox.
+Download page for test builds of a standalone Meta Quest VR physics sandbox.
 
 Open **Releases**, download `SandboxVR.apk` in the headset browser, then install it with a file manager.
 

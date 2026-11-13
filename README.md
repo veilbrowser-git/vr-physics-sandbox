@@ -4,10 +4,16 @@ Download page for test builds of a standalone Meta Quest VR physics sandbox.
 
 ## Download
 
-**[Download SandboxVR.apk](https://github.com/veilbrowser-git/vr-physics-sandbox/releases/download/v0.4.0/SandboxVR.apk)** (153 MB)
+**[Download SandboxVR.apk](https://github.com/veilbrowser-git/vr-physics-sandbox/releases/download/v0.4.2/SandboxVR.apk)** (153 MB)
 
-Current build: version 0.4.0. Development build, not yet confirmed on a headset.
+Current build: version 0.4.2. Development build, not yet confirmed on a headset.
 All builds are listed under [Releases](https://github.com/veilbrowser-git/vr-physics-sandbox/releases).
+
+## What is in 0.4.2
+
+- Your hands are attached to your arms: the arm ends exactly at the wrist in every pose, and the hand carries its own piece of forearm, so bending the wrist no longer opens a gap at the sleeve.
+- The body leans and turns with you, and the shoulders reach forward on long reaches.
+- NPC finger grabbing is reliable; several finger, fracture and grip bugs fixed (see the release notes).
 
 ## What is in 0.4.0
 

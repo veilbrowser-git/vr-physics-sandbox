@@ -4,10 +4,18 @@ Download page for test builds of a standalone Meta Quest VR physics sandbox.
 
 ## Download
 
-**[Download SandboxVR.apk](https://github.com/veilbrowser-git/vr-physics-sandbox/releases/download/v0.3.0/SandboxVR.apk)** (153 MB)
+**[Download SandboxVR.apk](https://github.com/veilbrowser-git/vr-physics-sandbox/releases/download/v0.4.0/SandboxVR.apk)** (153 MB)
 
-Current build: version 0.3.0. Development build, not yet confirmed on a headset.
+Current build: version 0.4.0. Development build, not yet confirmed on a headset.
 All builds are listed under [Releases](https://github.com/veilbrowser-git/vr-physics-sandbox/releases).
+
+## What is in 0.4.0
+
+- NPC fingers are physical: every finger bone has its own joint, bends within limits, collides with objects and wraps around a handle.
+- Reach for an NPC's finger and the segment you would grab is highlighted; hold grip to take it. Your pull is limited in strength.
+- Each finger bone can fracture and each finger joint can be injured, separately. Injured fingers go weak, and a hand with injured fingers drops what it holds.
+- Menu > NPC hand: choose left or right, set a pose (Open, Relaxed, Grip, Point), and read each finger's bone and joint condition.
+- Menu > Sim: Save sandbox / Load sandbox, and "Go to the finger lab" (an NPC beside a table of handles and small objects).
 
 ## What is in 0.3.0
 
@@ -40,6 +48,9 @@ All sounds are synthesised and the weapon models use flat colours, so neither is
 | Open / close menu | Left Menu button or Y |
 | Press menu buttons, place items, select an NPC | Point the other hand, pull the trigger |
 | Heal / reset an NPC | Select it, then Menu > Inspect |
+| Grab an NPC's finger | Reach for it until one segment is highlighted, then hold grip |
+| Pose an NPC's hand, see finger injuries | Select the NPC, then Menu > NPC hand |
+| Save / load, finger lab | Menu > Sim |
 | Hand skin tone and alignment | Menu > Hands |
 
 The NPC stands in the middle of the room.

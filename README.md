@@ -4,10 +4,18 @@ Download page for test builds of a standalone Meta Quest VR physics sandbox.
 
 ## Download
 
-**[Download SandboxVR.apk](https://github.com/veilbrowser-git/vr-physics-sandbox/releases/download/v0.4.2/SandboxVR.apk)** (153 MB)
+**[Download SandboxVR.apk](https://github.com/veilbrowser-git/vr-physics-sandbox/releases/download/v0.5.0/SandboxVR.apk)** (285 MB)
 
-Current build: version 0.4.2. Development build, not yet confirmed on a headset.
+Current build: version 0.5.0. Development build, not yet confirmed on a headset.
 All builds are listed under [Releases](https://github.com/veilbrowser-git/vr-physics-sandbox/releases).
+
+## What is in 0.5.0
+
+- Two real maps to choose from in Menu > Sim: an industrial **Workshop** (the new start) and an outdoor **Quarry** in daylight, with baked lighting, physical props and their own ambience. A third (concrete training facility) is coming.
+- Real recorded gunshots, slide / magazine / pump sounds, brass cases landing, footsteps that change with the ground, recorded NPC pain voices, 3D sound with direction cues and room echo.
+- A detailed new pistol with a moving slide, magazine and trigger; better muzzle flash, smoke and bullet impacts. Detailed rifle and shotgun next.
+- NPCs breathe, shift their weight and look at you.
+- Menu > Sim shows the frame rate and CPU / GPU times: please send me those numbers from the headset.
 
 ## What is in 0.4.2
 
